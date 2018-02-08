@@ -25,7 +25,7 @@ public class MyArrayClass {
 			public int getSize() {
 				return size;
 			}
-			public MyArray() {    //¹¹Ôìº¯Êý
+			public MyArray() {    //Â¹Â¹Ã”Ã¬ÂºÂ¯ÃŠÃ½
 				init();
 			}
 			public void init() {
@@ -74,3 +74,4 @@ public class MyArrayClass {
 			}
 		}
 }
+#test by joyarx
